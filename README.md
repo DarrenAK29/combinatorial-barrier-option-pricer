@@ -6,3 +6,4 @@ This program was largely adapted from this paper (up to Ch 3):
 https://math.mit.edu/~apost/courses/18.204_2018/18_204_paper_annikakim.pdf
 
 I recommend reading through it; Ch 4 and above extends the model to double knock-in options.
+It's also very readable with a basic understanding of Combinatorics (reflection principle, inclusion-exclusion)
